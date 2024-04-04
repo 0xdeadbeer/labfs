@@ -96,3 +96,6 @@ x509.genkey
 
 # compile database 
 compile_commands.json
+
+# stacks
+.stacks/
